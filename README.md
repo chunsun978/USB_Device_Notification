@@ -3,7 +3,8 @@
 The original code is from 
 Embedded-Programming-with-Modern-CPP-Cookbook  
 
-Tested in Raspberry PI 4 and it works well.  
+Built and tested in Raspberry PI 4,
+and it works well.   
 
 How to build:  
 cd build
