@@ -5,9 +5,17 @@ Embedded-Programming-with-Modern-CPP-Cookbook
 
 Tested in Raspberry PI 4 and it works well.  
 
+How to build:  
+cd build
+cmade ../src  
+make  
+
+
 If libudev.h can not be found, 
 $sudo apt-get install libudev-dev  
 
+run: 
+./usb 
 
 The printout:  
 
